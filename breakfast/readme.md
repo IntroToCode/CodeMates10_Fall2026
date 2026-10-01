@@ -11,7 +11,7 @@ I'd like to propose Cambodian *baw baw* (បបរ, also spelled bobor, borbor o
 - **Prep time:** 10 min
 - **Cook time:** 40 min
 - **Total time:** 50 min
-- **Servings:** 4
+- **Servings:** 8
 
 ### Historical source
 
