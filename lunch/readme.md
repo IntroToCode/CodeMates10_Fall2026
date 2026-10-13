@@ -13,7 +13,6 @@ A thin, crisp sourdough pizza piled with marinated artichoke hearts, red onion, 
 | Total Time | 35 minutes (using store-bought dough) |
 | Servings | 4 (two 12-inch pizzas) |
 | Difficulty | Easy |
-| Spice Level | 🌶️ (Mild; red pepper flakes optional) |
 | Tags | vegetarian, lunch, quick, crowd-pleaser |
 
 <!-- Note the fields in the markdown table -->
