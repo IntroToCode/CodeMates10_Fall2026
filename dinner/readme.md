@@ -62,6 +62,25 @@ Chicken tinga is a classic dish from Puebla, Mexico: shredded chicken simmered i
 - **Make-ahead:** The tinga keeps 3 days in the fridge and tastes better the next day. Reheat gently with a splash of water.
 - **Bigger crowd:** The recipe doubles easily. Keep the chicken warm in a slow cooker on the "warm" setting.
 
+### Beverage Pairing: Agua de Jamaica
+Agua de Jamaica is a traditional Mexican hibiscus iced tea.
+Its refreshing, tart flavor complements the smoky and spicy
+Chicken Tinga tacos.
+
+#### Ingredients
+- 1/2 cup dried hibiscus flowers
+- 4 cups water
+- 1/4 cup sugar (adjust to taste)
+- Ice cubes
+
+#### Preparation
+1. Bring 2 cups of water to a boil.
+2. Add the dried hibiscus flowers.
+3. Remove from heat and steep for 10 minutes.
+4. Strain the liquid and discard the flowers.
+5. Add sugar and the remaining 2 cups of water.
+6. Chill and serve over ice.
+
 ### Author(s):
 
 <!-- Add team members' names here -->
