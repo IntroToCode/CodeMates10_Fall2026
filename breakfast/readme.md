@@ -8,7 +8,6 @@ I'd like to propose Cambodian *baw baw* (បបរ, also spelled bobor, borbor o
 - **Origin:** Cambodia, especially Phnom Penh and the Tonlé Sap region
 - **Meal:** Breakfast
 - **Difficulty:** Easy
-- **Spice Level:** 🌶️ (Mild; fresh chili optional)
 - **Prep time:** 10 min
 - **Cook time:** 40 min
 - **Total time:** 50 min
