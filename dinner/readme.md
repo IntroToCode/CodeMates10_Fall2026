@@ -18,6 +18,9 @@ Chicken tinga is a classic dish from Puebla, Mexico: shredded chicken simmered i
 
 <!-- Note the fields in the markdown table -->
 
+### Paired Drink:
+- Sparkling water
+
 ### Ingredients:
 - [ ] 2 lb boneless, skinless chicken thighs
 - [ ] 4 cups water or low-sodium chicken broth
