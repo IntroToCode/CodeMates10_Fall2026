@@ -11,7 +11,7 @@ Chicken tinga is a classic dish from Puebla, Mexico: shredded chicken simmered i
 | Prep Time | 20 minutes |
 | Cook Time | 35 minutes |
 | Total Time | 55 minutes |
-| Servings | 7 (about 18 tacos) |
+| Servings | 14 (about 18 tacos) |
 | Difficulty | Easy |
 | Spice Level | 🌶️🌶️🌶️ (Hot; adjustable with chipotle peppers) |
 | Tags | dinner, group-friendly, make-ahead, gluten-free (with corn tortillas) |
