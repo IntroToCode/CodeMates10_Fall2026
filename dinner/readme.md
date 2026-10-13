@@ -1,4 +1,4 @@
-# Chicken Tinga Taco Bar
+# Chicken Tinga Taco Platter
 
 ## Description
 
